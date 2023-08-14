@@ -1,3 +1,3 @@
-# AdC_Projects
+# Simple Chat
 
-Projects made during the Academia de Código bootcamp between May -> Aug 2023. www.academiadecodigo.org
+Project made during the Academia de Código bootcamp between May -> Aug 2023. www.academiadecodigo.org
